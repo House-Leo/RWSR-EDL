@@ -1,0 +1,13 @@
+df2k:
+  tdsr:
+    source: '/home/yzj6850/houselee/dataset/ntire2020/train-source'
+    target: '/home/yzj6850/houselee/dataset/ntire2020/train-target'
+    valid:
+dped:
+  clean:
+    hr:
+      train: '../../ntire20/DPEDiphone-tr-x'
+      valid: '../../ntire20/DPEDiphone-va'
+datasets:
+  df2k: '/home/yzj6850/houselee/dataset/ntire2020'
+  dped: '../datasets/DPED'
