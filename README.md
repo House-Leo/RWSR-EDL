@@ -2,7 +2,7 @@
 
 Real-World Super-Resolution by Exclusionary Dual-Learning (TMM 2022)
 
-Hao Li, Jinghui Qin, Yukai Shi, Zhijing Yang, Pengxu Wei, Jinshan Pan, Liang Lin
+Hao Li, Jinghui Qin, Zhijing Yang, Pengxu Wei, Jinshan Pan, Liang Lin, Yukai Shi
 
 *Guangdong University of Technology, Sun Yat-sen University, Nanjing University of Science and Technology*
 
@@ -20,7 +20,7 @@ Real-world image super-resolution is a practical image restoration problem that 
 If you are interested in this work, please cite our paper.
 
     @article{Li_2022_TMM,
-             author = {Li, Hao and Qin, Jinghui and Shi, Yukai and Yang, Zhijing and Wei, Pengxu and Pan, Jinshan and Lin, Liang},
+             author = {Li, Hao and Qin, Jinghui and Yang, Zhijing and Wei, Pengxu and Pan, Jinshan and Lin, Liang and Shi, Yukai},
              title = {Real-World Super-Resolution by Exclusionary Dual-Learning},
              journal = {IEEE Transactions on Multimedia},
              year = {2022}
