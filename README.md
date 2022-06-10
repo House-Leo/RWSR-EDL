@@ -1,6 +1,6 @@
 # RWSR-EDL 
 
-Real-World Super-Resolution by Exclusionary Dual-Learning (TMM 2022)[arxiv](https://arxiv.org/abs/2206.02609)
+Real-World Super-Resolution by Exclusionary Dual-Learning (TMM 2022)[[arxiv](https://arxiv.org/abs/2206.02609)]
 
 Hao Li, Jinghui Qin, Zhijing Yang, Pengxu Wei, Jinshan Pan, Liang Lin, Yukai Shi
 
