@@ -1,6 +1,6 @@
 # RWSR-EDL 
 
-Real-World Super-Resolution by Exclusionary Dual-Learning (TMM 2022)[[arxiv](https://arxiv.org/abs/2206.02609)]
+Real-World Super-Resolution by Exclusionary Dual-Learning (TMM 2022)[[arxiv](https://arxiv.org/abs/2206.02609)] [[IEEE](https://ieeexplore.ieee.org/document/9792626)]
 
 Hao Li, Jinghui Qin, Zhijing Yang, Pengxu Wei, Jinshan Pan, Liang Lin, Yukai Shi
 
@@ -23,8 +23,10 @@ If you are interested in this work, please cite our paper.
              author = {Li, Hao and Qin, Jinghui and Yang, Zhijing and Wei, Pengxu and Pan, Jinshan and Lin, Liang and Shi, Yukai},
              title = {Real-World Super-Resolution by Exclusionary Dual-Learning},
              journal = {IEEE Transactions on Multimedia},
-             year = {2022}
-         }
+             year = {2022},
+             pages={1-13},
+             doi={10.1109/TMM.2022.3181457}
+            }
 
 ## Visual Results
 
